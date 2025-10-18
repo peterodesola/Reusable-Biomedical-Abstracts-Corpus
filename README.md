@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [Overview](Overview)
+- [Overview](#Overview)
 - [Dataset Statistics](#Dataset-Statistics)
 - [Label Distribution](#Label-Distribution)
 - [File Structure](#File-Structure)
