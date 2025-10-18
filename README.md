@@ -6,7 +6,7 @@
 **Dataset DOI:** [10.5281/zenodo.17229456](https://doi.org/10.5281/zenodo.17229456)  
 **Code DOI / Repository:** [10.5281/zenodo.17381916](https://doi.org/10.5281/zenodo.17381916) · [https://github.com/peterodesola/Reusable-Biomedical-Abstracts-Corpus](https://github.com/peterodesola/Reusable-Biomedical-Abstracts-Corpus)  
 **License:** CC BY-SA 4.0  
-**Contact:** eidreiz01@gmail.com · adegokeaa44@gmail.com · peterodes27@gmail.com
+**Contact:** eidreiz01@gmail.com 
 
 ---
 
