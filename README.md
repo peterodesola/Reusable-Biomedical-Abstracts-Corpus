@@ -12,18 +12,18 @@
 
 ## Table of Contents
 
-- [Overview](overview)
-- [Dataset Statistics](dataset-statistics)
-- [Label Distribution](label-distribution)
-- [File Structure](file-structure)
-- [Quick Start](quick-start)
-- [Provenance](provenance)
-- [Intended Use](intended-use)
-- [Limitations](limitations)
-- [License](license)
-- [Citation](citation)
-- [Acknowledgments](acknowledgments)
-- [Changelog](changelog)
+- [Overview](Overview)
+- [Dataset Statistics](#Dataset-Statistics)
+- [Label Distribution](#Label-Distribution)
+- [File Structure](#File-Structure)
+- [Quick Start](#Quick-Start)
+- [Provenance](#Provenance)
+- [Intended Use](#Intended-Use)
+- [Limitations](#Limitations)
+- [License](#License)
+- [Citation](#Citation)
+- [Acknowledgments](#Acknowledgments)
+- [Changelog](#Changelog)
 
 ---
 
